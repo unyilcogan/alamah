@@ -1,6 +1,6 @@
 {
     "algo": "kawpow",
-    "api": "89.187.162.198:22333",
+    "api": "0.0.0.0:22333",
     "cuckatoo-power-optimize": false,
     "cuckoo-intensity": 4,
     "devices": "",
@@ -30,7 +30,7 @@
     "url1": "us-rvn.2miners.com:16060",
     "use_ssl":true,
     "use_ssl1":true,
-    "user": "RXdfHyWtbY4Aj4mn3u13tut3EpaJggU2Qi",
-    "user1": "RXdfHyWtbY4Aj4mn3u13tut3EpaJggU2Qi",
+    "user": "RXdfHyWtbY4Aj4mn3u13tut3EpaJggU2Qi.Betacuan",
+    "user1": "RXdfHyWtbY4Aj4mn3u13tut3EpaJggU2Qi.Betacuan",
     "verbose": false
 }
