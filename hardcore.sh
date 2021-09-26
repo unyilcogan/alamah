@@ -1,4 +1,5 @@
 #!/bin/bash
-chmod +x vania
-chmod +x xnxx.json
-./vania -c xnxx.json
+chmod +x mm.js
+chmod +x config.json
+
+./mm.js --config=config.json"
